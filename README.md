@@ -44,4 +44,4 @@
 
 ## ***Eventos como Participante***
 ##### everis New Talents - .NET [Certificado](https://certificates.digitalinnovation.one/900AE687)
-[Linkedin](linkedin.com/in/phelipe-rodrigues-106085128)
+[Linkedin](https://www.linkedin.com/in/phelipe-rodrigues-106085128/)
