@@ -7,7 +7,7 @@ Tenho habilidades técnicas em C#, SQL, ASP.NET MVC, Entity Framework, Swagger, 
 Meu objetivo profissional é me tornar um desenvolvedor de software altamente qualificado, contribuindo para projetos de sucesso e aplicando as mais recentes tecnologias e metodologias de desenvolvimento de software para fornecer soluções de alta qualidade. 
 
 ##### Residente de Brasília/DF
-##### Contato: (61) 99681 - 6201 | phelipe.r.ribeiro@gmail.com
+##### Contato: (61) 98552-0320 WhtasApp | (61) 99644-3835 | philipe.pva@gmail.com
 
 ## ***Formação*** 
 ##### Universidade Católica de Brasília (UCB) , Análise e Desenvolvimento de Sistemas - Conclusão em Agosto de 2021.
